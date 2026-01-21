@@ -1,4 +1,3 @@
-Summary
 Simple two piece quad frame.
 The frame is 170mm and uses 4" props. (in my case 4045 4-blades)
 
@@ -50,5 +49,6 @@ Infill:
 Notes:
 Printed with PLA and 40% infill.
 Watch your wall thickness!
+
 
 https://www.thingiverse.com/thing:2462502/files
