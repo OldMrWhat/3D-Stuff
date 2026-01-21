@@ -9,14 +9,19 @@ The height 8 standoffs needs to be adapted to match the height of the PDB and an
 I used the following parts.
 DYS BE1806
 https://www.banggood.com/DYS-BE1806-2300KV-Brushless-Motor-Black-Edition-for-Multicopters-p-946416.html
+
 Naze32 Rev5
 https://hobbyking.com/en_us/afroflight-naze32-acro-funfly-controller.html
+
 4045 props
 https://hobbyking.com/en_us/dalprop-q4045-bull-nose-4-blade-propellers-cw-ccw-set-green-2-pairs.html
+
 ESC
 https://hobbyking.com/en_us/dys-blheli-16a-mini-esc-with-soldering-pin-option-2-4s.html
+
 PDB
 https://hobbyking.com/en_us/super-mini-power-distribution-board-w-twin-bec-5v-12v-for-cc3d-revo-flight-controllers.html
+
 Micro Camera and VTX
 https://hobbyking.com/en_us/q25-mini-vtx-and-camera.html
 
@@ -52,3 +57,4 @@ Watch your wall thickness!
 
 
 https://www.thingiverse.com/thing:2462502/files
+
